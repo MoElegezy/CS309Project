@@ -1,0 +1,18 @@
+div{
+    
+    padding: 5px;;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    color: rgb(7, 8, 8);
+}
+.option{
+    text-align: center;
+}
+.in{
+    width:20%;
+    text-align:left;
+}
+.mm{
+    text-align: center;
+}
